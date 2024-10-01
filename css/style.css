@@ -29,7 +29,6 @@ nav>ul {
     align-items: center;
     justify-content: space-evenly;
     gap: 20px;
-    padding: 0px;
 }
 
 nav>ul>li {
@@ -58,7 +57,6 @@ nav>ul>li>a {
 
 ul {
     list-style: none;
-    padding-top: 40px;
 }
 
 article {
@@ -88,6 +86,7 @@ ul>li>img:hover {
         padding-left: 0;
     }
  h1{
+    margin-bottom: 40px;
     border-bottom: solid black;
 }
 }
