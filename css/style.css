@@ -57,6 +57,7 @@ nav>ul>li>a {
 
 ul {
     list-style: none;
+    padding-top: 40px;
 }
 
 article {
@@ -85,7 +86,9 @@ ul>li>img:hover {
         width: 100%;
         padding-left: 0;
     }
-
+ h1{
+    border-bottom: solid black;
+}
 }
 
 img {
